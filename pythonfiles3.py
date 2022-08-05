@@ -13,7 +13,6 @@ Week 9 Assignment
 Submit a link to the respository from requirement 6 as your assignment submission. - 5% (done)
 """
 
-
 import os # imports the OS module
 
 pathofFile = input('Enter the file path where you would like to save the file: ') # prompt user for path of file
